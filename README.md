@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrewbarasa
-- 👀 I’m interested in Web Development, Mobile Application Development, Data Analysis And AI learning 
-- 🌱 I’m currently learning Java, Kotlin, PHP, and their respective frameworks
+- 👀 I’m interested in Web Development, Mobile Application Development, Data Analysis And AI and Machine learning 
+- 🌱 I’m currently learning Java, Kotlin, PHP, and their respective frameworks and JAVAFX and SpringBoot
 - 💞️ I’m looking to collaborate on Java programming and AI
 - 📫 How to reach me @andrewbarasa412@gmail.com Or bluetechsoft1@gmail.com Tel+254 708909399
 - 😄 Pronouns: ...
