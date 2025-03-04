@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BlueTechSoft-coder
+- 👋 Hi, I’m @andrewbarasa
 - 👀 I’m interested in Web Development, Mobile Application Development, Data Analysis And AI learning 
 - 🌱 I’m currently learning Java, Kotlin, PHP, and their respective frameworks
 - 💞️ I’m looking to collaborate on Java programming and AI
